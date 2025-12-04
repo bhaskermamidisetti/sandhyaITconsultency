@@ -11,7 +11,7 @@ export default function Footer() {
               className="flex items-center gap-2 hover:opacity-80 transition-opacity"
             >
               <img
-                src="/SandyaIT_Logo.jpeg"
+                src="/images/sandhyaIT_logo.jpeg"
                 alt="Sandhya IT Consulting"
                 className="h-10 w-auto"
               />
